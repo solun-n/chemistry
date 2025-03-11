@@ -19,6 +19,8 @@ ul {
 
 .header_nav {
     padding-right: 150px;
+    display: flex;
+    margin-left: 40px;
 }
 
 .header_item {
