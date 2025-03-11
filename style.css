@@ -27,6 +27,10 @@ ul {
     font-size: 13px;
 }
 
+.header_item:hover {
+    color: #8F8F8F;
+}
+
 .header_item:not(:last-child) {
     margin-right: 18px;
 }
